@@ -1,0 +1,11 @@
+
+
+     platform :ios, '8.0'
+
+target 'MagicRecoredTest' do
+
+   pod 'MagicalRecord', '~> 2.3.2'    
+       
+end
+
+
